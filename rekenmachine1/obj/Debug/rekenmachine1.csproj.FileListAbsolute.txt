@@ -1,0 +1,10 @@
+C:\Users\Pascal\source\repos\rekenmachine1\rekenmachine1\bin\Debug\rekenmachine1.exe.config
+C:\Users\Pascal\source\repos\rekenmachine1\rekenmachine1\bin\Debug\rekenmachine1.exe
+C:\Users\Pascal\source\repos\rekenmachine1\rekenmachine1\bin\Debug\rekenmachine1.pdb
+C:\Users\Pascal\source\repos\rekenmachine1\rekenmachine1\obj\Debug\rekenmachine1.csprojAssemblyReference.cache
+C:\Users\Pascal\source\repos\rekenmachine1\rekenmachine1\obj\Debug\rekenmachine1.Form1.resources
+C:\Users\Pascal\source\repos\rekenmachine1\rekenmachine1\obj\Debug\rekenmachine1.Properties.Resources.resources
+C:\Users\Pascal\source\repos\rekenmachine1\rekenmachine1\obj\Debug\rekenmachine1.csproj.GenerateResource.cache
+C:\Users\Pascal\source\repos\rekenmachine1\rekenmachine1\obj\Debug\rekenmachine1.csproj.CoreCompileInputs.cache
+C:\Users\Pascal\source\repos\rekenmachine1\rekenmachine1\obj\Debug\rekenmachine1.exe
+C:\Users\Pascal\source\repos\rekenmachine1\rekenmachine1\obj\Debug\rekenmachine1.pdb
