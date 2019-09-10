@@ -17,7 +17,7 @@ namespace rekenmachine1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1(new rekenmachine1.Control.Control()));
+            Application.Run(new Form1(new rekenmachine1.Control.Control())); // create new object form and control and run it
         }
     }
 }
